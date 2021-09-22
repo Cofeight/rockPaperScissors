@@ -46,3 +46,4 @@ var sayWhatAgain = function () {
 sayGoodbye();
 sayWhat();
 sayWhatAgain();
+sayWhatOneMoreTime("walrus")
